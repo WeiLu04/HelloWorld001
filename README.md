@@ -1,2 +1,3 @@
 hello world
-cat 
+cat
+dog 
